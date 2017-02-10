@@ -1,1 +1,1 @@
-# python-for-fun
+# Python program to alert for break
